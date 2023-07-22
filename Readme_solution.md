@@ -127,9 +127,9 @@ Connectivity:
     Additional Configuration : Database port ---> 3306
 Database authentication ---> Password authentication
 Additional Configuration:
-    - Initial Database Name  : database1
-    - Backup ---> Enable automatic backups
-    - Backup retention period ---> 7 days
+    - Initial Database Name  : clarusway
+    - Backup ---> off
+    - Backup retention period --->0
     - Select Backup Window ---> Select 03:00 (am) Duration 1 hour
     - Maintance window : Select window    ---> 04:00(am) Duration:1 hour
 create instance
